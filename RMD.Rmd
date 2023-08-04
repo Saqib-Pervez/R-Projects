@@ -1,0 +1,23 @@
+---
+title: "ggplot_2 practice"
+author: "Saqib"
+date: "2022-11-28"
+output: html_document
+---
+
+---
+title: "ggplot_practice"
+author: "Saqib"
+date: "2022-11-28"
+output: html_document
+---
+
+## Setting up my environment
+
+Notes: Setting up my environment by loading the 'tidyverse' and 'ggplot2' packages
+
+```{r loading packages}
+library(tidyverse)
+library(ggplot2)
+
+```
